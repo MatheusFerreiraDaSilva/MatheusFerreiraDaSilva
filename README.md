@@ -1,5 +1,5 @@
-📚 **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
-Preparando-se para o mercado de tecnologia**
+📚 **Estudante de Informática | Focado em Python, MySQL e Prompt de Comando |
+Preparando-se para o mercado de tecnologia!**
 ---
 ## Sobre mim
 - Atualmente cursando **Técnico em Informática** na ETEC Alberto Santos Dumont;
@@ -24,7 +24,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
 ## Redes para Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-
-badge&logo=gmail&logoColor=white)](mailto:matheuswfs10@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuswfs10@gmail.com)
 
 ---
