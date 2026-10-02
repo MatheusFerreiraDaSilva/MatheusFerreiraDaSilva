@@ -19,7 +19,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 # Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusFerreiraDaSilva&show_icons=true&theme=tokyonight)
-
 ---
 ## Redes para Contato
 
