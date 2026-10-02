@@ -4,16 +4,12 @@ Preparando-se para o mercado de tecnologia!**
 ## Sobre mim
 - Atualmente cursando **Técnico em Informática** na ETEC Alberto Santos Dumont;
 - Aprendendo a linguagem de programação Python e MySQL;
-- Tenho grande interesse em criar **projetos web** e **desenvolvimento front-end**;
+- Tenho grande interesse em criar **projetos web** e **desenvolvimento front-end**.
 ---
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="HTML" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 ---
 ## Estatísticas do GitHub
