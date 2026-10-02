@@ -1,10 +1,10 @@
-**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
+📚 **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
 Preparando-se para o mercado de tecnologia**
 ---
 ## Sobre mim
-- Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
-- Sempre aprendendo novas tecnologias e boas práticas de programação
-- Interesse especial em **projetos web** e **desenvolvimento front-end**
+- Atualmente cursando **Técnico em Informática** na ETEC Alberto Santos Dumont;
+- Aprendendo a linguagem de programação Python e MySQL;
+- Tenho grande interesse em criar **projetos web** e **desenvolvimento front-end**;
 ---
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
@@ -22,13 +22,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 USUARIO&show_icons=true&theme=tokyonight)
 
 ---
-## Como me encontrar
+## Redes para Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Matheus-Ferreira)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-
-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+badge&logo=gmail&logoColor=white)](mailto:matheuswfs10@gmail.com)
 
 ---
-*“Sempre aprendendo e evoluindo como desenvolvedor.”*
